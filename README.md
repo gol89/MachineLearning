@@ -7,3 +7,8 @@ Exploratory data analysis has been done after dividing the dataset into Train an
 New features like the rooms per household, population per household and bedrooms per rooms have been created.
 Numeric data pipeline and Full data pipeline have been created using Pipeline and ColumnTransformer.
 Various models (LinearRegression, DecisionTree, RandomForest and ANN) are trained to predict the median house value.
+
+
+## MiLliam(ML) Shakespeare
+A model consisting of GRU layers is trained on the works of William Shakespeare and 
+generates a text data in Shakespearean style from a single letter provided.
